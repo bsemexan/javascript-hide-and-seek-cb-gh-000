@@ -4,7 +4,7 @@ function getFirstSelector(selector){
 }
 
 function nestedTarget(){
-
+  var nested = document.querySelector('#nested .target')
 }
 
 function deepestChild(){
